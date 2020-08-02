@@ -1,4 +1,4 @@
 <?php
-    $page="savedArticles_content.php";
+    $page="homepage_content.php";
     include("template.php");
 ?>
