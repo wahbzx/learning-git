@@ -23,13 +23,10 @@
             <a class="nav-link" href="homepage.php">Home <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Features</a>
+            <a class="nav-link" href="https://git-scm.com/docs">Documentation</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Pricing</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+            <a class="nav-link" href="https://git-scm.com/downloads">Download</a>
           </li>
         </ul>
       </div>

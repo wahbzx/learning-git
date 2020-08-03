@@ -1,5 +1,7 @@
 <div class="container">
-    <h1>My beginner's guide to Git</h1>
+    <h1>First of all, what is Git?</h1>
+    <p>Git is an open source and free version control system. It allows you to track and manage the changes 
+    made in large projects and allows you collaborate more efficiently on them.<p>
 </div>
 
 <div class="container">
@@ -12,7 +14,7 @@
                 <h5 class="card-title">Setting up Git</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                <a href="#" class="card-link">How to set up</a>
+                <a href="https://www.youtube.com/watch?v=RGOj5yH7evk" class="card-link">How to set up Youtube Video</a>
             </div>
         </div>
     </div>
