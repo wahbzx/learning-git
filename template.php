@@ -26,7 +26,7 @@
             <a class="nav-link" href="https://git-scm.com/docs">Documentation</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="https://git-scm.com/downloads">Download</a>
+            <a class="nav-link" href="https://git-scm.com/downloads">Downloads</a>
           </li>
         </ul>
       </div>
